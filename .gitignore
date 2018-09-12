@@ -1,0 +1,4 @@
+data/awa2/features/*
+__pycache__/*
+saved/*
+.ipynb_checkpoints/*
